@@ -1,6 +1,6 @@
-Give Food is a UK charity that collates and publishes data on food banks.
+[Give Food](https://www.givefood.org.uk) is a UK charity that uses data to highlight local and structural food insecurity then provides tools to help alleviate it.
 
-We maintain the the largest publicly available database of food banks and what they are requesting to have donated in the UK. We currently cover over 2700 locations.
+We maintain the the largest publicly available database of food banks and what they are requesting to have donated in the UK. We currently cover around 2800 locations.
 
 Our data is used by governments, councils, universities, supermarkets, political parties, the NHS, food manufacturers, hundreds of national & local news websites, apps & the Trussell Trust.
 
